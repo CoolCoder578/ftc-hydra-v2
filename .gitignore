@@ -1,0 +1,9 @@
+# Ignore large CAD exports and derived files
+*.stl
+*.step
+*.stp
+*.f3d
+
+# Ignore editor or OS artifacts
+.DS_Store
+Thumbs.db
